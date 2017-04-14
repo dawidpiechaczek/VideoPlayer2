@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\AndroidAppData\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="F:\Downloads\PSMLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_d82e919b3d858a8c3e8545e823a890a223670d0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawid\.android\build-cache\4b7af63d14d2c540114f7e0f48e7b9ef178a483a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="F:\Downloads\PSMLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d10e4e0b7992b3b23a96eedf1e9faf9286166005\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Downloads\PSMLab3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\Downloads\PSMLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d86768b1035148eaade94da799d893b41252101f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawid\.android\build-cache\351046e33348d57e345069ee01a1ce573bcc0b0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="F:\Downloads\PSMLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_364be3242aeb469171616b74a63e4c578f980a6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawid\.android\build-cache\16c8f3cb368d8f2dfbaf1cbc42a3de3d21f56b18\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="F:\Downloads\PSMLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_522ae77bfa11d7b3a24a2c1c30832afad0e688e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidAppData\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="F:\Downloads\PSMLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.1_33ab141b9bb42492618152968a081c8ba7087a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawid\.android\build-cache\16c8f3cb368d8f2dfbaf1cbc42a3de3d21f56b18\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="F:\Downloads\PSMLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_072e260aa6e54ba3792cd6aebacfe2bc2a1e3382\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawid\.android\build-cache\7d971f907a4c3e7c2b253a12e90c76b06c72b9c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="F:\Downloads\PSMLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a30d7ce4f86153c46c0dec9a71be5ee1e43d4ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dawid\.android\build-cache\d10c93eb5755955ee38216c4537109b531aea27a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="F:\Downloads\PSMLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47017ee76a891ac9fe2790ac76ef6d074c8bbeaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Downloads\PSMLab3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14a5e69c71fc9a320904aa306509616b20e6e910">
+        <dex dex="F:\Downloads\PSMLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_41de424208acae0e4b007a1803d40a9af4af8e0f\classes.dex" />
+    </item>
+
+</items>
